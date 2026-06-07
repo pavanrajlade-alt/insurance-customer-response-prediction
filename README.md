@@ -16,5 +16,8 @@ This project predicts whether an insurance customer will respond to a marketing 
 ## Outcome
 Built a classification model to predict customer response.
 
+## Dashboard Preview
+![Dashboard Screenshot](dashboard_overview.png)
+
 ## Author
 Pavan Lade
